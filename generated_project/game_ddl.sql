@@ -1,0 +1,1 @@
+CREATE TABLE games (id SERIAL PRIMARY KEY, game_state JSONB NOT NULL);
