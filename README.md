@@ -1,9 +1,19 @@
-# Space Fractions
+Space Fractions
+An interactive educational desktop game designed to help students master fraction concepts.
 
-An interactive educational math game generated
- via a Python script and agent setup as part
- of an evaluation task.
+Quick Start Guide
+Prerequisites
+Node.js (v18 or higher)
 
-## Features
-- Dynamic math fraction challenges
-- Interactive user interface
+Python (3.8 or higher)
+
+Installation & Running the Application
+Clone the repository:
+git clone https://github.com/mm009900/SpaceFractionsAgent.git
+cd SpaceFractionsAgent
+Generate the Desktop Application:
+python agent.py
+Install Dependencies and Launch:
+cd generated_project
+npm install
+npm start
